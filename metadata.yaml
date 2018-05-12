@@ -1,0 +1,26 @@
+_repo: How-Robin-Hood-Once-Was-a-WaitA-Miracle-Play-or-Christmas-Masque_45166
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45166-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hazard, Rowland Gibson
+    birthdate: 1855
+    deathdate: 1918
+    gutenberg_agent_id: '43131'
+    url: http://www.gutenberg.org/2009/agents/43131
+description: ''
+gutenberg_issued: '2014-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Robin Hood (Legendary character) -- Drama'
+title: 'How Robin Hood Once Was a Wait: A Miracle Play or Christmas Masque'
+url: http://www.gutenberg.org/ebooks/45166
