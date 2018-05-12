@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43131'
     url: http://www.gutenberg.org/2009/agents/43131
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45166#How-Robin-Hood-Once-Was-a-WaitA-Miracle-Play-or-Christmas-Masque
 gutenberg_issued: '2014-03-18'
 gutenberg_type: Text
 identifiers:
